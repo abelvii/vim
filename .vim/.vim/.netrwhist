@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/novumind/home/lt/dockerfiles/infra/phpldapadmin'
+let g:netrw_dirhist_2='/novumind/home/lt/docker/gitlab/local/gitlab_init.sh'
+let g:netrw_dirhist_3='/novumind/home/lt/NFAIv1.1/NFAI_docker/NovuFaceAI_webapp_docker'
+let g:netrw_dirhist_4='/novumind/home/lt/.vim'
+let g:netrw_dirhist_5='/novumind/home/lt/docker/nginx'
+let g:netrw_dirhist_6='/novumind/home/lt/dockerfiles/build/us/novuface/webapp/1.1'
